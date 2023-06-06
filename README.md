@@ -32,6 +32,8 @@ This will start the app in development mode and open it in your default browser 
 
 ## Contact
 
-Name: Eng. Abdullah Alenezi
-Track: Web Development
-Description: Designin and developing functional and responsive web application using modern technologies.
+# Name: Eng. Abdullah Alenezi
+
+# Track: Web Development
+
+# Description: Designin and developing functional and responsive web application using modern technologies.
