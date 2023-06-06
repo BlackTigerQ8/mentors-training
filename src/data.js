@@ -14,6 +14,7 @@ export const students = [
     email: "alimustafa@example.com",
     snack: "Fruit snacks",
     emoji: "😁",
+    grade: "90%",
   },
   {
     id: 2,
@@ -24,6 +25,7 @@ export const students = [
     email: "norahussein@example.com",
     snack: "Chocolate",
     emoji: "😎",
+    grade: "78%",
   },
   {
     id: 3,
@@ -34,6 +36,7 @@ export const students = [
     email: "laylaabdulrahman@example.com",
     snack: "Protein bars",
     emoji: "😊",
+    grade: "86%",
   },
   {
     id: 4,
@@ -44,6 +47,7 @@ export const students = [
     email: "mohammedkhalil@example.com",
     snack: "Ice cream",
     emoji: "😇",
+    grade: "91%",
   },
   {
     id: 5,
@@ -54,6 +58,7 @@ export const students = [
     email: "ahmedsaleh@example.com",
     snack: "Popcorn",
     emoji: "😀",
+    grade: "70%",
   },
   {
     id: 6,
@@ -63,7 +68,8 @@ export const students = [
     title: "Student at CODED.",
     email: "fatimaali@example.com",
     snack: "Dried fruit",
-    emoji: "",
+    emoji: "🤨",
+    grade: "88%",
   },
   {
     id: 7,
@@ -74,6 +80,7 @@ export const students = [
     email: "yasminhamdan@example.com",
     snack: "Veggie sticks",
     emoji: "😉",
+    grade: "95%",
   },
   {
     id: 8,
@@ -84,6 +91,7 @@ export const students = [
     email: "abdullahmahmoud@example.com",
     snack: "Chips",
     emoji: "😑",
+    grade: "80%",
   },
   {
     id: 9,
@@ -94,6 +102,7 @@ export const students = [
     email: "saramohammed@example.com",
     snack: "Yogurt cups",
     emoji: "🤗",
+    grade: "82%",
   },
   {
     id: 10,
@@ -104,5 +113,6 @@ export const students = [
     email: "omarhassan@example.com",
     snack: "Cheese and crackers",
     emoji: "😄",
+    grade: "93%",
   },
 ];

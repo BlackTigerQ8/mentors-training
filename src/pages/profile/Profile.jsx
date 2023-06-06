@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import { FcFeedback, FcKindle } from "react-icons/fc";
 import { AiOutlineRollback } from "react-icons/ai";
 import SnackIcon from "../../images/cashew.png";
+import GradeIcon from "../../images/grades.png";
 
 const Profile = () => {
   const { id } = useParams();
@@ -13,8 +14,6 @@ const Profile = () => {
   if (!student) {
     return <div>Student not found</div>;
   }
-
-  console.log("hello");
 
   return (
     <div className="profile">
@@ -45,6 +44,12 @@ const Profile = () => {
             <img src={SnackIcon} style={{ width: "1.5rem" }} alt="" />
           </span>
           {student.snack}
+        </div>
+        <div>
+          <span>
+            <img src={GradeIcon} style={{ width: "1.5rem" }} alt="" />
+          </span>
+          {student.grade}
         </div>
       </div>
     </div>
