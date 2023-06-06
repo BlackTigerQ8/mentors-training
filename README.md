@@ -1,4 +1,4 @@
-# My React App
+# My React App (Monitors-Training)
 
 This app was built using React.js framework to end up with clean code and fast and functional application.
 
@@ -36,4 +36,4 @@ This will start the app in development mode and open it in your default browser 
 
 # Track: Web Development
 
-# Description: Designin and developing functional and responsive web application using modern technologies.
+# Description: Designing and developing functional and responsive web application using modern technologies.
